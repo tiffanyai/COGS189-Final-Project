@@ -10,7 +10,8 @@ You will read each passage with a different genre of music:
 
 You will be given a Pre-Survey that will assess how confident you are with your reading speed with accuracy in the experiment for the Fiction (Lo-fi, EDM, and Pop) and Non-Fiction (Lo-fi, EDM, and Pop) categories on a scale of 1(Not confident) - 10 (Very confident).
 
-PRE-SURVEY LINK
+[PRE-SURVEY LINK](https://docs.google.com/forms/d/e/1FAIpQLSf3C0cEYEr_pMM1fyjPplRgLGgrg6xPfdpXzG1KkywcDTtfig/viewform?usp=sf_link)
+
 
 You will first listen to the song for 30 seconds, then start reading the passage for 1 minute.
 
@@ -18,7 +19,8 @@ The observer will circle any words you mess up on or do not know
 
 After completing the experiment, you will complete a Post-Survey where you will  be assessed on how much each song helped with you focus and concentration in the experiment for Fiction (Lo-fi, EDM, and Pop) and Non-Fiction (Lo-fi, EDM, and Pop) categories on a scale of 1(Not focused) - 10 (Very focused). You will also be asked to rate each song from 1(Dislike) - 10(Like)
 
-POST-SURVEY LINK
+[POST-SURVEY LINK](https://docs.google.com/forms/d/e/1FAIpQLSeMrsbJDVjJ8ZUW-T8qutSb8WKTft6zfZbFzi_MJVA-MxnQKw/viewform?usp=sf_link)
+
 
 As data recorders, we will monitor the music and also circle what they mess upon or what they get incorrect (Incorrectness is judged based on pronunciation and how long it takes for the participant to speak)
 
